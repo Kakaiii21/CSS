@@ -1,0 +1,61 @@
+.the-top{
+	background-image: url("images/sea.jpg");
+	background-position: center;
+  background-size: center, cover;
+	color: white;
+	padding: 10px;
+	text-align: center;
+	font-family: Times New Roman;
+	color: white;
+	padding-top: 0px;
+	font-size: 10px;
+	padding-bottom: 150px;
+
+
+
+
+}
+.child {
+	display: inline-flex;
+	border-style: solid;
+	padding:  200px;
+	margin-left: 10px;
+
+}
+.Osma {
+	display: inline-flex;
+	border-style: solid;
+	padding:  100px;
+	margin-left: 100px;
+
+}
+
+.preach {
+	display: inline-flex;
+	border-style: solid;
+	padding:  100px;
+	margin-left: 100px;
+}
+.orP {
+	display: inline-flex;
+	border-style: solid;
+	padding:  100px;
+	margin-left: 100px;
+
+}
+.top-text{
+	padding-top: 0px;
+	font-family: Times New Roman;
+	font-size: 50px;
+}
+.p-top{
+	padding: 0px;
+	font-size: 15px;
+}
+.top-links{
+	text-align: right;
+
+}
+a{
+	padding-left: 10px;
+}
